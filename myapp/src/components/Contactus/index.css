@@ -1,0 +1,30 @@
+.contact-us-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap:3rem;
+    margin: 3rem;
+}
+
+.contactus-form-container {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.contactus-form-container h1 {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blue;
+}
+.contact-form-container{
+    width: 100%;
+    padding: 1rem;
+    margin: 1rem;
+    border: 1px solid grey;
+    border-radius: 5px;
+
+}
